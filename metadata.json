@@ -1,0 +1,6 @@
+{
+  "name": "AutoVoice to Gmail",
+  "description": "Automatic voice recorder that captures audio and seamlessly sends recordings to rohit.technaitra@gmail.com",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
